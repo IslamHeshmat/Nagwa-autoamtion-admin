@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-21T09:15:38 EET" name="Default suite" finished-at="2021-08-21T09:16:03 EET" duration-ms="24189">
+    <groups>
+    </groups>
+    <test started-at="2021-08-21T09:15:38 EET" name="Default test" finished-at="2021-08-21T09:16:03 EET" duration-ms="24189">
+      <class name="testPackage.TestClass">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testPackage.TestClass@79924b]" started-at="2021-08-21T09:15:38 EET" name="beforeClass" finished-at="2021-08-21T09:15:39 EET" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testPackage.TestClass@79924b]" started-at="2021-08-21T09:15:39 EET" name="beforeMethod" finished-at="2021-08-21T09:15:44 EET" duration-ms="5889" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkThatGoogleLogoIsDisplayed()[pri:0, instance:testPackage.TestClass@79924b]" started-at="2021-08-21T09:15:44 EET" name="checkThatGoogleLogoIsDisplayed" finished-at="2021-08-21T09:15:44 EET" duration-ms="91" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkThatGoogleLogoIsDisplayed -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testPackage.TestClass@79924b]" started-at="2021-08-21T09:15:44 EET" name="afterMethod" finished-at="2021-08-21T09:15:45 EET" duration-ms="833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testPackage.TestClass@79924b]" started-at="2021-08-21T09:15:45 EET" name="beforeMethod" finished-at="2021-08-21T09:15:49 EET" duration-ms="3261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkThatGooglePageTitleIsCorrect()[pri:0, instance:testPackage.TestClass@79924b]" started-at="2021-08-21T09:15:49 EET" name="checkThatGooglePageTitleIsCorrect" finished-at="2021-08-21T09:15:49 EET" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkThatGooglePageTitleIsCorrect -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testPackage.TestClass@79924b]" started-at="2021-08-21T09:15:49 EET" name="afterMethod" finished-at="2021-08-21T09:15:49 EET" duration-ms="741" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testPackage.TestClass@79924b]" started-at="2021-08-21T09:15:49 EET" name="beforeMethod" finished-at="2021-08-21T09:15:53 EET" duration-ms="3182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkThatTheResultStatsIsNotEmpty()[pri:0, instance:testPackage.TestClass@79924b]" started-at="2021-08-21T09:15:53 EET" name="checkThatTheResultStatsIsNotEmpty" finished-at="2021-08-21T09:15:55 EET" duration-ms="2589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkThatTheResultStatsIsNotEmpty -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testPackage.TestClass@79924b]" started-at="2021-08-21T09:15:55 EET" name="afterMethod" finished-at="2021-08-21T09:15:56 EET" duration-ms="753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testPackage.TestClass@79924b]" started-at="2021-08-21T09:15:56 EET" name="beforeMethod" finished-at="2021-08-21T09:16:00 EET" duration-ms="3646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkThatTheResultStatsIsNotEmptyInCaseSearchingForSHAFT_Engine()[pri:0, instance:testPackage.TestClass@79924b]" started-at="2021-08-21T09:16:00 EET" name="checkThatTheResultStatsIsNotEmptyInCaseSearchingForSHAFT_Engine" finished-at="2021-08-21T09:16:02 EET" duration-ms="2377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkThatTheResultStatsIsNotEmptyInCaseSearchingForSHAFT_Engine -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testPackage.TestClass@79924b]" started-at="2021-08-21T09:16:02 EET" name="afterMethod" finished-at="2021-08-21T09:16:03 EET" duration-ms="740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testPackage.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
